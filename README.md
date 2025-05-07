@@ -176,4 +176,5 @@ MIN_HEIGHT=1920
 # 赞赏
 觉得不错可以请问吃包辣条😊  
 
-![ea389723faa46d05b757627a204beab](https://github.com/user-attachments/assets/3903e965-2fa2-4c4c-8457-181a9836121a)
+<img src="https://github.com/kersfs/PAPER/blob/main/Cores/Backs/1.png" width="210px" hight="210px">
+
