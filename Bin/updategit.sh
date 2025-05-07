@@ -3,9 +3,8 @@
 
 # 配置区
 LOCAL_DIR="/storage/emulated/0/Wallpaper"
-REMOTE_REPO="git@github.com:kersfs/wallpaper.git"
+REMOTE_REPO="https://github.com/kersfs/PAPER.git"
 BRANCH="main"
-SSH_KEY="/data/data/com.termux/files/home/storage/shared/.ssh/wallpaper_key"
 GITIGNORE_LINK="$LOCAL_DIR/.gitignore"
 
 # 颜色定义
@@ -20,25 +19,6 @@ check_env() {
         termux-setup-storage
         sleep 2
     fi
-
-    if [ ! -f "$SSH_KEY" ]; then
-        echo -e "${RED}❌ SSH密钥文件不存在：$SSH_KEY${NC}"
-        exit 1
-    fi
-}
-
-setup_ssh() {
-    mkdir -p ~/.ssh
-    cat > ~/.ssh/config <<EOF
-Host github.com
-    HostName github.com
-    User git
-    IdentityFile $SSH_KEY
-    IdentitiesOnly yes
-    StrictHostKeyChecking no
-EOF
-    chmod 600 ~/.ssh/config
-    chmod 600 "$SSH_KEY"
 }
 
 create_gitignore() {
@@ -120,5 +100,4 @@ main() {
 }
 
 check_env
-setup_ssh
 main

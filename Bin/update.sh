@@ -1,5 +1,5 @@
 #!/bin/bash
-REMOTE_REPO="git@github.com:kersfs/wallpaper.git"
+REMOTE_REPO="https://github.com/kersfs/PAPER.git"
 BRANCH="main"
 LOCAL_DIR="/storage/emulated/0/Wallpaper"
 TEMP_CLONE_DIR="/storage/emulated/0/Wallpaper/Cores/Tmps/wallpaper_remote"
