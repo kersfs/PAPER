@@ -3,7 +3,7 @@
 
 # 配置区
 LOCAL_DIR="/storage/emulated/0/Wallpaper"
-REMOTE_REPO="https://github.com/kersfs/PAPER.git"
+REMOTE_REPO="项目链接"
 BRANCH="main"
 GITIGNORE_LINK="$LOCAL_DIR/.gitignore"
 
