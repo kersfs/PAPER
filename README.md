@@ -2,7 +2,7 @@
 基于whallhaven开发的手机壁纸项目  
 
 # 克隆本项目
-"git clone https://github.com/kersfs/PAPER.git  "   
+'git clone https://github.com/kersfs/PAPER.git  '
 
 # 本地运行
 若不需要动态更新  
