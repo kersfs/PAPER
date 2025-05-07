@@ -1,5 +1,5 @@
 # PAPER
-基于whallhaven开发的手机壁纸项目  
+基于whallhaven API开发的手机壁纸项目  
 
 # 反馈
 任何使用困惑可加群反馈  qq 121065578
