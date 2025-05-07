@@ -5,6 +5,14 @@
 
 ```git clone https://github.com/kersfs/PAPER.git```
 
+#  动态更新
+运行Bin目录下的update脚本可进行动态更新，获取最新提交  
+
+# 推送
+FORK本项目  
+将Bin目录下的update脚本的项目链接改为你直接的项目链接地址  
+运行即可推送  
+
 # 本地运行
 若不需要动态更新  
 下载该项目zip文件  
