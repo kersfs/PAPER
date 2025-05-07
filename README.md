@@ -2,7 +2,7 @@
 基于whallhaven开发的手机壁纸项目  
 
 # 反馈
-任何使用困惑可加群反馈  
+任何使用困惑可加群反馈  qq 121065578
 
 # 克隆本项目
 
@@ -11,12 +11,12 @@ git clone https://github.com/kersfs/PAPER.git
 ```
 
 #  动态更新
-运行Bin目录下的update脚本可进行动态更新，获取最新提交  
+运行Bin目录下的`update.sh`脚本可进行动态更新，获取最新提交  
 
 # 推送
 FORK本项目  
-将Bin目录下的update脚本的项目链接改为你直接的项目链接地址  
-运行即可推送  
+将Bin目录下的`updategit.sh`脚本的项目链接改为你直接的项目链接地址  
+运行该脚本即可推送  
 
 # 本地运行
 若不需要动态更新  
@@ -24,7 +24,9 @@ FORK本项目
 将文件解压到`/storage/emulated/0/Wallpaper`目录，没有目录手动创建
 Termux 运行命令  
 
-```bash /storage/emulated/0/Wallpaper/Bin/l.sh```
+```
+bash /storage/emulated/0/Wallpaper/Bin/l.sh
+```
 
 # 使用说明
 该项目脚本基于`Termux`和`Termux API`运行前请下载对于应用  
@@ -94,7 +96,9 @@ Termux 运行命令
 # 各功能使用方法
 运行脚本脚本支持交互模式和命令行参数两种方式运行  
 1.交互模式（无参数运行）：  
-`bash l.sh  `
+```
+bash l.sh
+```
 脚本会提示用户选择：  
 运行模式（xz 或 bz）  
 更换间隔（仅 bz 模式，默认7分钟）  
@@ -105,7 +109,9 @@ Termux 运行命令
 是否启用 Bottom-pocket 机制（默认禁用）  
 是否后台运行（默认前台）  
 2.命令行参数模式：  
-```bash l.sh MODE INTERVAL_MINUTES PURITY CATEGORY_MODE SEARCH_MODE FALLBACK_MECHANISM RESOLUTION_MODE MIN_WIDTH MIN_HEIGHT  ```
+```
+bash l.sh MODE INTERVAL_MINUTES PURITY CATEGORY_MODE SEARCH_MODE FALLBACK_MECHANISM RESOLUTION_MODE MIN_WIDTH MIN_HEIGHT
+```
 
 参数说明：
 `MODE`：xz（下载）或 bz（定时更换）  
@@ -117,7 +123,9 @@ Termux 运行命令
 `RESOLUTION_MODE`：分辨率模式（zsy, 1.5k, zdy，默认 zsy）  
 `MIN_WIDTH, MIN_HEIGHT`：自定义分辨率宽度和高度（仅 zdy 模式有效）  
 示例：  
-```bash wallpaper_run_tmp.sh bz 10 110 zr zh enabled zsy```  
+```
+bash wallpaper_run_tmp.sh bz 10 110 zr zh enabled zsy
+```  
 表示定时更换模式，每10分钟更换一次，纯度 R13，仅真人壁纸，组合搜索，启用 Bottom-pocket，设备自适应分辨率。  
 
 # 配置关键词关键词
@@ -165,3 +173,7 @@ MIN_HEIGHT=1920
 # 清理
 脚本自动清理7天前的日志、缓存和关键词文件  
 
+# 赞赏
+觉得不错可以请问吃包辣条😊  
+
+![ea389723faa46d05b757627a204beab](https://github.com/user-attachments/assets/3903e965-2fa2-4c4c-8457-181a9836121a)
