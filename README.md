@@ -174,7 +174,7 @@ MIN_HEIGHT=1920
 脚本自动清理7天前的日志、缓存和关键词文件  
 
 # 赞赏
-觉得不错可以请在下吃包辣条😊  
+觉得不错可以给我买包辣条吃😊  
 
 <img src="https://github.com/kersfs/PAPER/blob/main/Cores/Backs/1.png" width="210px" hight="210px"> 
 <img src="https://github.com/kersfs/PAPER/blob/main/Cores/Backs/2.jpg" width="210px" hight="210px"> 
