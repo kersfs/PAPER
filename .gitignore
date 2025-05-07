@@ -1,0 +1,8 @@
+Cores/Logs/*
+Cores/Reallys/*
+Cores/Pages/*
+Cores/Keywords/*
+Cores/FallBacks/*
+Cores/Papers/*
+Cores/Tmps/*
+!*.gitkeep
