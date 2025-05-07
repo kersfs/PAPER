@@ -1,6 +1,14 @@
 # PAPER
 基于whallhaven开发的手机壁纸项目  
 
+# 赞赏
+觉得不错可以请问吃包辣条😊  
+
+![ea389723faa46d05b757627a204beab](https://github.com/user-attachments/assets/3903e965-2fa2-4c4c-8457-181a9836121a)
+
+# 反馈
+任何使用困惑可加群反馈  
+
 # 克隆本项目
 
 ```git clone https://github.com/kersfs/PAPER.git```
