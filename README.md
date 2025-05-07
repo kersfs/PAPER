@@ -3,14 +3,14 @@
 
 # 克隆本项目
 
-```git clone https://github.com/kersfs/PAPER.git  ```
+```git clone https://github.com/kersfs/PAPER.git```
 
 # 本地运行
 若不需要动态更新  
 下载该项目zip文件  
 将文件解压到/storage/emulated/0/Wallpaper目录，没有目录手动创建
 Termux 运行命令  
-bash /storage/emulated/0/Wallpaper/Bin/l.sh  
+```bash /storage/emulated/0/Wallpaper/Bin/l.sh```
 
 # 使用说明
 该项目脚本基于Termux和Termux API运行前请下载对于应用  
@@ -91,7 +91,7 @@ bash l.sh
 是否启用 Bottom-pocket 机制（默认禁用）  
 是否后台运行（默认前台）  
 2.命令行参数模式：  
-bash l.sh MODE INTERVAL_MINUTES PURITY CATEGORY_MODE SEARCH_MODE FALLBACK_MECHANISM RESOLUTION_MODE MIN_WIDTH MIN_HEIGHT
+```bash l.sh MODE INTERVAL_MINUTES PURITY CATEGORY_MODE SEARCH_MODE FALLBACK_MECHANISM RESOLUTION_MODE MIN_WIDTH MIN_HEIGHT```
 
 参数说明：
 MODE：xz（下载）或 bz（定时更换）  
