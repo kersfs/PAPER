@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b142e28d-0b9e-4be5-87c4-ec1b4e695204" name="更改" comment="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <change afterPath="$PROJECT_DIR$/wallpaper/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Cores/Function/upload_to_webdav.sh" beforeDir="false" afterPath="$PROJECT_DIR$/.Cores/Function/upload_to_webdav.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kersfs"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kersfs/PAPER.git",
+    "accountId": "b4020b62-4639-4715-834b-110efc6b627a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2zVHWTiLfnaqxly3QnkmZ46YTda" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHELLCHECK.PATH": "C:\\Users\\KERS\\AppData\\Roaming\\JetBrains\\IntelliJIdea2024.3\\plugins\\Shell Script\\shellcheck.exe",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IDEAPATH" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b142e28d-0b9e-4be5-87c4-ec1b4e695204" name="更改" comment="" />
+      <created>1751809352834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751809352834</updated>
+      <workItem from="1751809357067" duration="1763000" />
+    </task>
+    <task id="LOCAL-00001" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810415050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810415050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810466315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810466315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810483263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810483263</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810533460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810533460</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810543884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810543884</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810697635</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810697635</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810739701</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810739701</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810799308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810799308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810839200</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810839200</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控">
+      <option name="closed" value="true" />
+      <created>1751810907329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810907329</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加功耗检测&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控" />
+    <MESSAGE value="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控" />
+    <option name="LAST_COMMIT_MESSAGE" value="update&#10;V1.3&#10;更新支持云端上传，云端同步&#10;关键词自动学习&#10;增加关键词过滤功能&#10;修改延迟检测和动态休眠为crul延迟，提高稳定性&#10;增加屏幕熄灭检测，屏幕关闭进入休眠&#10;增加电量和温度检测，电量过低进入低功耗模式，温度异常进入休眠&#10;增加标签自动翻译，标签自动更新&#10;支持对参数动态调控" />
+  </component>
+</project>
